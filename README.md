@@ -32,12 +32,12 @@ bank-personal-loan-prediction
 │   └── Bank_Personal_Loan_Modelling.csv
 │
 ├── notebooks
-│   ├── Phase1_Group71.ipynb
-│   └── Phase2_Group71.ipynb
+│   ├── Phase1.ipynb
+│   └── Phase2.ipynb
 │
 ├── reports
-│   ├── Phase1_Group71.html
-│   └── Phase2_Group71.html
+│   ├── Phase1.html
+│   └── Phase2.html
 │
 └── docs
     └── project_structure.txt
@@ -317,16 +317,10 @@ ipykernel
 
 HTML exports of both project phases are available in the `reports/` folder:
 
-- `Phase1_Group71.html`
-- `Phase2_Group71.html`
+- `Phase1.html`
+- `Phase2.html`
 
 These files allow the project analysis to be viewed without running the notebooks.
-
-## Contributors
-
-- Karan Naresh Rathod
-- Shrey Dineshchandra Deshmukh
-- Somya Sharma
 
 ## Author Note
 
